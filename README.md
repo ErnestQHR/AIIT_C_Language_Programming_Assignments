@@ -1,2 +1,1 @@
-# cwork
-This repo is used to store c lanugue course code
+# 这个仓库用来展示一些c语言的练习题目
