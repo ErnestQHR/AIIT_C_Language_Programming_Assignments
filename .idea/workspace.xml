@@ -31,12 +31,15 @@
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="AIIT_C_Language_Programming_Assignments" />
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="19" />
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="18" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="9X9" />
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="17" />
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="16" />
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="15" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="zhengtizhong3" />
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="14" />
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="13" />
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="12" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="zhengtizhong4" />
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="11" />
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="10" />
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2024-10-30.2" />
@@ -50,6 +53,8 @@
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.7" />
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.8" />
       <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.9" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="chengtizhong2" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="chengtizhong1" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -59,19 +64,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="288e642d-8aa5-44e8-9742-303cf9dd930c" name="更改" comment="commit">
-      <change afterPath="$PROJECT_DIR$/阶段性考核二/2.1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/阶段性考核二/2.10.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/阶段性考核二/2.11.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/阶段性考核二/2.12.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/阶段性考核二/2.2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/阶段性考核二/2.3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/阶段性考核二/2.4.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/阶段性考核二/2.5.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/阶段性考核二/2.6.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/阶段性考核二/2.7.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/阶段性考核二/2.8.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/阶段性考核二/2.9.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/阶段性考核二/计算思维-c语言阶段考核二（编程题）.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第五次作业/9X9.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四次作业/chengtizhong1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四次作业/chengtizhong2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四次作业/zhengtizhong3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第四次作业/zhengtizhong4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算思维导论复习内容/fu1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-061ff0be50d4f2b44caf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-11-25T10-32-11-0343.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +140,7 @@
     "CMake 应用程序.2.1.executor": "Run",
     "CMake 应用程序.2.10.executor": "Run",
     "CMake 应用程序.2.11.executor": "Run",
+    "CMake 应用程序.2.12.executor": "Run",
     "CMake 应用程序.2.2.executor": "Run",
     "CMake 应用程序.2.3.executor": "Run",
     "CMake 应用程序.2.4.executor": "Run",
@@ -141,6 +151,7 @@
     "CMake 应用程序.2.executor": "Run",
     "CMake 应用程序.20.executor": "Run",
     "CMake 应用程序.2024-10-18.executor": "Run",
+    "CMake 应用程序.222.executor": "Run",
     "CMake 应用程序.3.executor": "Run",
     "CMake 应用程序.4.executor": "Run",
     "CMake 应用程序.5.executor": "Run",
@@ -148,7 +159,12 @@
     "CMake 应用程序.7.executor": "Run",
     "CMake 应用程序.8.executor": "Run",
     "CMake 应用程序.9.executor": "Run",
+    "CMake 应用程序.9X9.executor": "Debug",
     "CMake 应用程序.AIIT_C_Language_Programming_Assignments.executor": "Run",
+    "CMake 应用程序.chengtizhong1.executor": "Run",
+    "CMake 应用程序.chengtizhong2.executor": "Run",
+    "CMake 应用程序.zhengtizhong3.executor": "Run",
+    "CMake 应用程序.zhengtizhong4.executor": "Run",
     "CMake 调试.AIIT_C_Language_Programming_Assignments.executor": "Debug",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -171,7 +187,7 @@
       <recent name="$PROJECT_DIR$/阶段性考核一" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake 应用程序.2.12">
+  <component name="RunManager" selected="CMake 应用程序.zhengtizhong4">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -355,15 +371,39 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="9X9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="9X9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="9X9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AIIT_C_Language_Programming_Assignments" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="AIIT_C_Language_Programming_Assignments" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="AIIT_C_Language_Programming_Assignments">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chengtizhong1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="chengtizhong1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="chengtizhong1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chengtizhong2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="chengtizhong2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="chengtizhong2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zhengtizhong3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="zhengtizhong3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="zhengtizhong3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zhengtizhong4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="zhengtizhong4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="zhengtizhong4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="CMake 应用程序.1" />
-      <item itemvalue="CMake 应用程序.10" />
       <item itemvalue="CMake 应用程序.10.30" />
+      <item itemvalue="CMake 应用程序.10" />
       <item itemvalue="CMake 应用程序.11" />
       <item itemvalue="CMake 应用程序.12" />
       <item itemvalue="CMake 应用程序.13" />
@@ -373,11 +413,14 @@
       <item itemvalue="CMake 应用程序.17" />
       <item itemvalue="CMake 应用程序.18" />
       <item itemvalue="CMake 应用程序.19" />
-      <item itemvalue="CMake 应用程序.2" />
-      <item itemvalue="CMake 应用程序.2.1" />
+      <item itemvalue="CMake 应用程序.1" />
+      <item itemvalue="CMake 应用程序.2024-10-18" />
+      <item itemvalue="CMake 应用程序.2024-10-30.2" />
+      <item itemvalue="CMake 应用程序.20" />
       <item itemvalue="CMake 应用程序.2.10" />
       <item itemvalue="CMake 应用程序.2.11" />
       <item itemvalue="CMake 应用程序.2.12" />
+      <item itemvalue="CMake 应用程序.2.1" />
       <item itemvalue="CMake 应用程序.2.2" />
       <item itemvalue="CMake 应用程序.2.3" />
       <item itemvalue="CMake 应用程序.2.4" />
@@ -386,9 +429,7 @@
       <item itemvalue="CMake 应用程序.2.7" />
       <item itemvalue="CMake 应用程序.2.8" />
       <item itemvalue="CMake 应用程序.2.9" />
-      <item itemvalue="CMake 应用程序.20" />
-      <item itemvalue="CMake 应用程序.2024-10-18" />
-      <item itemvalue="CMake 应用程序.2024-10-30.2" />
+      <item itemvalue="CMake 应用程序.2" />
       <item itemvalue="CMake 应用程序.3" />
       <item itemvalue="CMake 应用程序.4" />
       <item itemvalue="CMake 应用程序.5" />
@@ -396,7 +437,12 @@
       <item itemvalue="CMake 应用程序.7" />
       <item itemvalue="CMake 应用程序.8" />
       <item itemvalue="CMake 应用程序.9" />
+      <item itemvalue="CMake 应用程序.9X9" />
       <item itemvalue="CMake 应用程序.AIIT_C_Language_Programming_Assignments" />
+      <item itemvalue="CMake 应用程序.chengtizhong1" />
+      <item itemvalue="CMake 应用程序.chengtizhong2" />
+      <item itemvalue="CMake 应用程序.zhengtizhong3" />
+      <item itemvalue="CMake 应用程序.zhengtizhong4" />
       <item itemvalue="CMake 调试.AIIT_C_Language_Programming_Assignments" />
     </list>
     <recent_temporary>
@@ -415,7 +461,11 @@
       <updated>1731411591883</updated>
       <workItem from="1731411592934" duration="15406000" />
       <workItem from="1732526317868" duration="4241000" />
-      <workItem from="1732530581201" duration="150000" />
+      <workItem from="1732530581201" duration="1133000" />
+      <workItem from="1732533686084" duration="1860000" />
+      <workItem from="1733369809398" duration="2606000" />
+      <workItem from="1733658225069" duration="1000" />
+      <workItem from="1734576215464" duration="11017000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -425,7 +475,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731419579615</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1732530764803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732530764803</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,8 +494,30 @@
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/第四次作业/zhengtizhong4.c</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

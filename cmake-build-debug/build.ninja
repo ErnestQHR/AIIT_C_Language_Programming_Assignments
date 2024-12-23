@@ -1156,6 +1156,161 @@ build 2.12: C_EXECUTABLE_LINKER__2.2e12_Debug CMakeFiles/2.12.dir/阶段性考�
   TARGET_FILE = 2.12
   TARGET_PDB = 2.12.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 9X9
+
+
+#############################################
+# Order-only phony target for 9X9
+
+build cmake_object_order_depends_target_9X9: phony || .
+
+build CMakeFiles/9X9.dir/第五次作业/9X9.c.o: C_COMPILER__9X9_unscanned_Debug /Users/ernestqiu/CLionProjects/AIIT_C_Language_Programming_Assignments/第五次作业/9X9.c || cmake_object_order_depends_target_9X9
+  DEP_FILE = CMakeFiles/9X9.dir/第五次作业/9X9.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/9X9.dir
+  OBJECT_FILE_DIR = CMakeFiles/9X9.dir/第五次作业
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 9X9
+
+
+#############################################
+# Link the executable 9X9
+
+build 9X9: C_EXECUTABLE_LINKER__9X9_Debug CMakeFiles/9X9.dir/第五次作业/9X9.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk
+  OBJECT_DIR = CMakeFiles/9X9.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 9X9
+  TARGET_PDB = 9X9.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target chengtizhong1
+
+
+#############################################
+# Order-only phony target for chengtizhong1
+
+build cmake_object_order_depends_target_chengtizhong1: phony || .
+
+build CMakeFiles/chengtizhong1.dir/第四次作业/chengtizhong1.c.o: C_COMPILER__chengtizhong1_unscanned_Debug /Users/ernestqiu/CLionProjects/AIIT_C_Language_Programming_Assignments/第四次作业/chengtizhong1.c || cmake_object_order_depends_target_chengtizhong1
+  DEP_FILE = CMakeFiles/chengtizhong1.dir/第四次作业/chengtizhong1.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/chengtizhong1.dir
+  OBJECT_FILE_DIR = CMakeFiles/chengtizhong1.dir/第四次作业
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target chengtizhong1
+
+
+#############################################
+# Link the executable chengtizhong1
+
+build chengtizhong1: C_EXECUTABLE_LINKER__chengtizhong1_Debug CMakeFiles/chengtizhong1.dir/第四次作业/chengtizhong1.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk
+  OBJECT_DIR = CMakeFiles/chengtizhong1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = chengtizhong1
+  TARGET_PDB = chengtizhong1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target chengtizhong2
+
+
+#############################################
+# Order-only phony target for chengtizhong2
+
+build cmake_object_order_depends_target_chengtizhong2: phony || .
+
+build CMakeFiles/chengtizhong2.dir/第四次作业/chengtizhong2.c.o: C_COMPILER__chengtizhong2_unscanned_Debug /Users/ernestqiu/CLionProjects/AIIT_C_Language_Programming_Assignments/第四次作业/chengtizhong2.c || cmake_object_order_depends_target_chengtizhong2
+  DEP_FILE = CMakeFiles/chengtizhong2.dir/第四次作业/chengtizhong2.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/chengtizhong2.dir
+  OBJECT_FILE_DIR = CMakeFiles/chengtizhong2.dir/第四次作业
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target chengtizhong2
+
+
+#############################################
+# Link the executable chengtizhong2
+
+build chengtizhong2: C_EXECUTABLE_LINKER__chengtizhong2_Debug CMakeFiles/chengtizhong2.dir/第四次作业/chengtizhong2.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk
+  OBJECT_DIR = CMakeFiles/chengtizhong2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = chengtizhong2
+  TARGET_PDB = chengtizhong2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zhengtizhong3
+
+
+#############################################
+# Order-only phony target for zhengtizhong3
+
+build cmake_object_order_depends_target_zhengtizhong3: phony || .
+
+build CMakeFiles/zhengtizhong3.dir/第四次作业/zhengtizhong3.c.o: C_COMPILER__zhengtizhong3_unscanned_Debug /Users/ernestqiu/CLionProjects/AIIT_C_Language_Programming_Assignments/第四次作业/zhengtizhong3.c || cmake_object_order_depends_target_zhengtizhong3
+  DEP_FILE = CMakeFiles/zhengtizhong3.dir/第四次作业/zhengtizhong3.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/zhengtizhong3.dir
+  OBJECT_FILE_DIR = CMakeFiles/zhengtizhong3.dir/第四次作业
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zhengtizhong3
+
+
+#############################################
+# Link the executable zhengtizhong3
+
+build zhengtizhong3: C_EXECUTABLE_LINKER__zhengtizhong3_Debug CMakeFiles/zhengtizhong3.dir/第四次作业/zhengtizhong3.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk
+  OBJECT_DIR = CMakeFiles/zhengtizhong3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zhengtizhong3
+  TARGET_PDB = zhengtizhong3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zhengtizhong4
+
+
+#############################################
+# Order-only phony target for zhengtizhong4
+
+build cmake_object_order_depends_target_zhengtizhong4: phony || .
+
+build CMakeFiles/zhengtizhong4.dir/第四次作业/zhengtizhong4.c.o: C_COMPILER__zhengtizhong4_unscanned_Debug /Users/ernestqiu/CLionProjects/AIIT_C_Language_Programming_Assignments/第四次作业/zhengtizhong4.c || cmake_object_order_depends_target_zhengtizhong4
+  DEP_FILE = CMakeFiles/zhengtizhong4.dir/第四次作业/zhengtizhong4.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/zhengtizhong4.dir
+  OBJECT_FILE_DIR = CMakeFiles/zhengtizhong4.dir/第四次作业
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zhengtizhong4
+
+
+#############################################
+# Link the executable zhengtizhong4
+
+build zhengtizhong4: C_EXECUTABLE_LINKER__zhengtizhong4_Debug CMakeFiles/zhengtizhong4.dir/第四次作业/zhengtizhong4.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk
+  OBJECT_DIR = CMakeFiles/zhengtizhong4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zhengtizhong4
+  TARGET_PDB = zhengtizhong4.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1190,7 +1345,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/ernestqiu/CLionProjects/AIIT_C_Language_Programming_Assignments/cmake-build-debug
 
-build all: phony AIIT_C_Language_Programming_Assignments 10.30 2024-10-18 2024-10-30.2 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 2.10 2.11 2.12
+build all: phony AIIT_C_Language_Programming_Assignments 10.30 2024-10-18 2024-10-30.2 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 2.10 2.11 2.12 9X9 chengtizhong1 chengtizhong2 zhengtizhong3 zhengtizhong4
 
 # =============================================================================
 # Built-in targets
