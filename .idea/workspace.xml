@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="20" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="10.30" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="9" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="8" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="7" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.12" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="6" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="5" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.10" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="4" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.11" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="3" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="1" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="AIIT_C_Language_Programming_Assignments" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="19" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="18" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="9X9" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="17" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="16" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="15" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="zhengtizhong3" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="14" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="13" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="12" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="zhengtizhong4" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="11" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="10" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="thesystemofstudenmanagement" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2024-10-30.2" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.1" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.2" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.3" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.4" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.5" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.6" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2024-10-18" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.7" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.8" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="2.9" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="chengtizhong2" />
+      <config projectName="AIIT_C_Language_Programming_Assignments" targetName="chengtizhong1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="288e642d-8aa5-44e8-9742-303cf9dd930c" name="更改" comment="commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/平时提交的题目/2024-10-18.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/平时提交的题目/2024-10-30.2.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/平时提交的题目/2024-10-30.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/第五次作业/9X9.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/ernestqiu/CLionProjects/AIIT_C_Language_Programming_Assignments/第六次作业—学生成绩管理/thesystemofstudenmanagement.c" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/ernestqiu/CLionProjects/AIIT_C_Language_Programming_Assignments/第六次作业—学生成绩管理/thesystemofstudenmanagement.c" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/计算思维导论复习内容/fu1.c" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "CMake 应用程序.1.executor": "Run",
+    "CMake 应用程序.10.executor": "Run",
+    "CMake 应用程序.11.executor": "Run",
+    "CMake 应用程序.12.executor": "Run",
+    "CMake 应用程序.13.executor": "Run",
+    "CMake 应用程序.14.executor": "Run",
+    "CMake 应用程序.15.executor": "Run",
+    "CMake 应用程序.16.executor": "Run",
+    "CMake 应用程序.17.executor": "Run",
+    "CMake 应用程序.18.executor": "Run",
+    "CMake 应用程序.19.executor": "Run",
+    "CMake 应用程序.2.1.executor": "Run",
+    "CMake 应用程序.2.10.executor": "Run",
+    "CMake 应用程序.2.11.executor": "Run",
+    "CMake 应用程序.2.12.executor": "Run",
+    "CMake 应用程序.2.2.executor": "Run",
+    "CMake 应用程序.2.3.executor": "Run",
+    "CMake 应用程序.2.4.executor": "Run",
+    "CMake 应用程序.2.5.executor": "Run",
+    "CMake 应用程序.2.6.executor": "Run",
+    "CMake 应用程序.2.7.executor": "Run",
+    "CMake 应用程序.2.9.executor": "Run",
+    "CMake 应用程序.2.executor": "Run",
+    "CMake 应用程序.20.executor": "Run",
+    "CMake 应用程序.2024-10-18.executor": "Run",
+    "CMake 应用程序.222.executor": "Run",
+    "CMake 应用程序.3.executor": "Run",
+    "CMake 应用程序.4.executor": "Run",
+    "CMake 应用程序.5.executor": "Run",
+    "CMake 应用程序.6.executor": "Run",
+    "CMake 应用程序.7.executor": "Run",
+    "CMake 应用程序.8.executor": "Run",
+    "CMake 应用程序.9.executor": "Run",
+    "CMake 应用程序.9X9.executor": "Debug",
+    "CMake 应用程序.AIIT_C_Language_Programming_Assignments.executor": "Run",
+    "CMake 应用程序.chengtizhong1.executor": "Run",
+    "CMake 应用程序.chengtizhong2.executor": "Run",
+    "CMake 应用程序.fu1.executor": "Run",
+    "CMake 应用程序.thesystemofstudenmanagement.executor": "Run",
+    "CMake 应用程序.zhengtizhong3.executor": "Run",
+    "CMake 应用程序.zhengtizhong4.executor": "Run",
+    "CMake 调试.AIIT_C_Language_Programming_Assignments.executor": "Debug",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="CMake 应用程序.thesystemofstudenmanagement">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="10.30" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="10.30" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="10.30">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="11" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="12" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="12">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="13" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="13" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="13">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="14" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="14" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="14">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="15" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="15" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="15">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="16" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="16" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="16">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="17" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="17" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="17">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="18" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="18" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="18">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="19" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="19" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="19">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="20" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="20" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="20">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2024-10-18" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2024-10-18" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2024-10-18">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2024-10-30.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2024-10-30.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2024-10-30.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2.1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2.10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2.10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.11" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2.11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2.11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.12" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2.12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2.12">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2.3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2.3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2.4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2.4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2.5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2.5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2.6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2.6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.7" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2.7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2.7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2.8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2.8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2.9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="2.9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="2.9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="7" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="9X9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="9X9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="9X9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AIIT_C_Language_Programming_Assignments" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="AIIT_C_Language_Programming_Assignments" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="AIIT_C_Language_Programming_Assignments">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chengtizhong1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="chengtizhong1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="chengtizhong1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chengtizhong2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="chengtizhong2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="chengtizhong2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thesystemofstudenmanagement" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="thesystemofstudenmanagement" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="thesystemofstudenmanagement">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zhengtizhong3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="zhengtizhong3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="zhengtizhong3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zhengtizhong4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AIIT_C_Language_Programming_Assignments" TARGET_NAME="zhengtizhong4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AIIT_C_Language_Programming_Assignments" RUN_TARGET_NAME="zhengtizhong4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.1" />
+      <item itemvalue="CMake 应用程序.10" />
+      <item itemvalue="CMake 应用程序.10.30" />
+      <item itemvalue="CMake 应用程序.11" />
+      <item itemvalue="CMake 应用程序.12" />
+      <item itemvalue="CMake 应用程序.13" />
+      <item itemvalue="CMake 应用程序.14" />
+      <item itemvalue="CMake 应用程序.15" />
+      <item itemvalue="CMake 应用程序.16" />
+      <item itemvalue="CMake 应用程序.17" />
+      <item itemvalue="CMake 应用程序.18" />
+      <item itemvalue="CMake 应用程序.19" />
+      <item itemvalue="CMake 应用程序.2" />
+      <item itemvalue="CMake 应用程序.2.1" />
+      <item itemvalue="CMake 应用程序.2.10" />
+      <item itemvalue="CMake 应用程序.2.11" />
+      <item itemvalue="CMake 应用程序.2.12" />
+      <item itemvalue="CMake 应用程序.2.2" />
+      <item itemvalue="CMake 应用程序.2.3" />
+      <item itemvalue="CMake 应用程序.2.4" />
+      <item itemvalue="CMake 应用程序.2.5" />
+      <item itemvalue="CMake 应用程序.2.6" />
+      <item itemvalue="CMake 应用程序.2.7" />
+      <item itemvalue="CMake 应用程序.2.8" />
+      <item itemvalue="CMake 应用程序.2.9" />
+      <item itemvalue="CMake 应用程序.20" />
+      <item itemvalue="CMake 应用程序.2024-10-18" />
+      <item itemvalue="CMake 应用程序.2024-10-30.2" />
+      <item itemvalue="CMake 应用程序.3" />
+      <item itemvalue="CMake 应用程序.4" />
+      <item itemvalue="CMake 应用程序.5" />
+      <item itemvalue="CMake 应用程序.6" />
+      <item itemvalue="CMake 应用程序.7" />
+      <item itemvalue="CMake 应用程序.8" />
+      <item itemvalue="CMake 应用程序.9" />
+      <item itemvalue="CMake 应用程序.9X9" />
+      <item itemvalue="CMake 应用程序.AIIT_C_Language_Programming_Assignments" />
+      <item itemvalue="CMake 应用程序.chengtizhong1" />
+      <item itemvalue="CMake 应用程序.chengtizhong2" />
+      <item itemvalue="CMake 应用程序.thesystemofstudenmanagement" />
+      <item itemvalue="CMake 应用程序.zhengtizhong3" />
+      <item itemvalue="CMake 应用程序.zhengtizhong4" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="288e642d-8aa5-44e8-9742-303cf9dd930c" name="更改" comment="" />
+      <created>1731411591883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731411591883</updated>
+      <workItem from="1731411592934" duration="15406000" />
+      <workItem from="1732526317868" duration="4241000" />
+      <workItem from="1732530581201" duration="1133000" />
+      <workItem from="1732533686084" duration="1860000" />
+      <workItem from="1733369809398" duration="2606000" />
+      <workItem from="1733658225069" duration="1000" />
+      <workItem from="1734576215464" duration="12485000" />
+      <workItem from="1735007677003" duration="6011000" />
+      <workItem from="1735214177909" duration="372000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1731419579615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731419579615</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1732530764803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732530764803</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1734954901108</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734954901109</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <option name="closed" value="true" />
+      <created>1735214220889</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735214220889</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+</project>
