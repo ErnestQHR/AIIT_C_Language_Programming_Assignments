@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/2.9.dir/阶段性考核二/2.9.c.o -o 2.9
